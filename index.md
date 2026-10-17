@@ -10,3 +10,5 @@ Introduction to Data Management (COMP 1238)
 - Learn Markdown
 - Understand GitHub repositories
 - Create and publish a website using GitHub Pages
+## Course Notes
+- [COMP 1238 Study Notes](comp1238.md)
